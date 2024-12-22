@@ -7,7 +7,7 @@
 
 .wrapper {
   width: 100%;
-  height: auto;
+  height: 100vh;
   border: 5px solid black;
   display: flex;
   align-items: center;
